@@ -52,6 +52,6 @@
   },
   "prettier": "@sxzz/prettier-config",
   "dependencies": {
-    "@stephansama/multipublish": "https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@f2af774"
+    "@stephansama/multipublish": "https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@9f58585"
   }
 }
