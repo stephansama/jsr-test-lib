@@ -1,5 +1,10 @@
 # @stephansama/test-lib
 
+## 0.2.0
+### Minor Changes
+
+- 8d0acf9: updated multipublish version
+
 ## 0.1.0
 ### Minor Changes
 
