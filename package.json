@@ -27,8 +27,8 @@
   "scripts": {
     "lint": "eslint --cache .",
     "lint:fix": "pnpm run lint --fix",
-    "publish": "changeset publish",
     "prepublish": "multipublish",
+    "publish": "changeset publish",
     "build": "tsdown",
     "dev": "tsdown --watch",
     "test": "vitest",
