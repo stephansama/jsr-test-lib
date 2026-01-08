@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@stephansama/multipublish':
-        specifier: https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@9f58585
-        version: https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@9f58585(jsr@0.13.5)(typescript@5.9.3)
+        specifier: https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@918dba2
+        version: https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@918dba2(jsr@0.13.5)(typescript@5.9.3)
     devDependencies:
       '@changesets/cli':
         specifier: ^2.29.8
@@ -761,8 +761,8 @@ packages:
   '@standard-schema/spec@1.1.0':
     resolution: {integrity: sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w==}
 
-  '@stephansama/multipublish@https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@9f58585':
-    resolution: {integrity: sha512-10x/2DfFsrYvIe/0S9WI7r8pR/zDaTMVowd8UF9xVOVJJpnVPCIghRL11ltLybeRpx9ISpUDlTn2AH/5Rdnwzw==, tarball: https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@9f58585}
+  '@stephansama/multipublish@https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@918dba2':
+    resolution: {integrity: sha512-bJRMuHEpOHYbhOt3EWV+b9+LD//4lOQMlnTuGCqOiHkt04HRg8Xs6ZHIFrj6n2XXnqWOf3qili0XoRriZRc+UQ==, tarball: https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@918dba2}
     version: 0.0.0
     hasBin: true
     peerDependencies:
@@ -3217,7 +3217,7 @@ snapshots:
 
   '@standard-schema/spec@1.1.0': {}
 
-  '@stephansama/multipublish@https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@9f58585(jsr@0.13.5)(typescript@5.9.3)':
+  '@stephansama/multipublish@https://pkg.pr.new/stephansama/packages/@stephansama/multipublish@918dba2(jsr@0.13.5)(typescript@5.9.3)':
     dependencies:
       '@manypkg/find-root': 3.1.0
       '@manypkg/get-packages': 3.1.0

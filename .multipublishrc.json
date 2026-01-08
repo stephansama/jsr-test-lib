@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@stephansama/multipublish/config/schema.json",
   "platforms": [
-    ["jsr", { "experimentalGenerateJSR": true }],
+    ["jsr", { "experimentalGenerateJSR": true, "defaultInclude": ["dist"] }],
     [
       "npm",
       {
