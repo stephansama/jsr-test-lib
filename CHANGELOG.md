@@ -1,5 +1,11 @@
 # @stephansama/test-lib
 
+## 0.4.4
+### Patch Changes
+
+- 6aaab25: update permissions
+- 9ca8f2b: update exclude pattern
+
 ## 0.4.2
 ### Patch Changes
 
