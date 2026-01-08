@@ -1,19 +1,12 @@
 {
-  "name": "ts-starter",
+  "name": "@stephansama/test-lib",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@10.27.0",
   "description": "My awesome typescript library",
-  "author": "Kevin Deng <sxzz@sxzz.moe>",
-  "license": "MIT",
-  "funding": "https://github.com/sponsors/sxzz",
-  "homepage": "https://github.com/sxzz/ts-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sxzz/ts-starter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/sxzz/ts-starter/issues"
+    "url": "git+https://github.com/stephansama/jsr-test-lib.git"
   },
   "exports": {
     ".": "./dist/index.js",
