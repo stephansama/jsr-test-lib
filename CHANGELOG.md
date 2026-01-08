@@ -1,5 +1,10 @@
 # @stephansama/test-lib
 
+## 0.4.2
+### Patch Changes
+
+- 666e679: version bump
+
 ## 0.4.0
 ### Minor Changes
 
